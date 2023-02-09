@@ -1,6 +1,6 @@
 # Olá, eu sou Vitor Renato 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+Veja meu LikedIn: <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/vitor-renato-engel-de-barros-4b327124a/)
 
 ![ViitorEngel GitHub stats](https://github-readme-stats.vercel.app/api?username=ViitorEngel&show_icons=true&theme=merko&hide_title=true)
