@@ -11,6 +11,7 @@ Veja meu LinkedIn: <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Node--Red-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
 </div><br>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViitorEngel)](https://github.com/ViitorEngel/github-readme-stats)
 
 ## Algumas ferramentas que utilizo 🔧:
 <div style="display: inline_block"><br>
