@@ -3,8 +3,6 @@
 Veja meu LinkedIn: <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/vitor-renato-engel-de-barros-4b327124a/)
 
-![ViitorEngel GitHub stats](https://github-readme-stats.vercel.app/api?username=ViitorEngel&show_icons=true&theme=merko&hide_title=true)
-
 ## Minhas linguagens de programação 👨‍💻:
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
